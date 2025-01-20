@@ -1,2 +1,2 @@
 # kubernetes
-![ECS Vs EKS](https://github.com/user-attachments/assets/b44fb605-52a0-4374-8285-6a30a4bf3300)
+![ECS Vs EKS](https://github.com/user-attachments/assets/af2bd631-e7f7-43d4-bfd7-a50a0c3fbf11)
